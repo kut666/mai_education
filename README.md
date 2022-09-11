@@ -46,6 +46,6 @@
 <h4><a href="https://github.com/kut666/MAI_study/tree/main/term7/partial%20differential%20equations">Уравнения в частных производных
 <h4>8 семестр
 <h4><a href="https://github.com/kut666/MAI_study/tree/main/term8/MMSNKSU">Математические методы синтеза новых классов СУ
-<h4><a href="https://github.com/kut666/MAI_study/tree/main/term8/excel">Численный анализ и оптимизация математический моделей в технике и экономике
+<h4><a href="https://github.com/kut666/MAI_study/tree/main/term8/excel">Численный анализ и оптимизация математическиx моделей в технике и экономике
 <h4><a href="https://github.com/kut666/MAI_study/tree/main/term8/prediction%20of%20states%20in%20dynamic%20systems">Прогнозирование состояний в динамических системах
 <h4><a href="https://github.com/kut666/MAI_study/tree/main/term8/practice">Преддипломная практика
