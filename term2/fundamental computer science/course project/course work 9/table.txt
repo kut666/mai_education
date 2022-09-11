@@ -1,0 +1,10 @@
+5+i*6 Two roads diverged in a yellow wood, 
+7+i*3 And sorry I could not travel both 
+8+i*2 And be one traveler, long I stood 
+6+i*5 And looked down one as far as I could 
+9+i*4 To where it bent in the undergrowth. 
+7+i*9 Then took the other, as just as fair, 
+5+i*2 And having perhaps the better claim, 
+7+i*9 Because it was grassy and wanted wear; 
+4+i*2 Though as for that the passing there 
+5+i*3 Had worn them really about the same

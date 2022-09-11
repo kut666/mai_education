@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Учеба\Лабораторные работы по ООП Махмудов Орхан (М8О-205Б-18)\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Учеба\Лабораторные работы по ООП Махмудов Орхан (М8О-205Б-18)\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Учеба\Лабораторные работы по ООП Махмудов Орхан (М8О-205Б-18)\lab6\bin\Debug\lab6.exe.config
+C:\Users\Admin\Desktop\Учеба\Лабораторные работы по ООП Махмудов Орхан (М8О-205Б-18)\lab6\bin\Debug\lab6.exe
+C:\Users\Admin\Desktop\Учеба\Лабораторные работы по ООП Махмудов Орхан (М8О-205Б-18)\lab6\bin\Debug\lab6.pdb
+C:\Users\Admin\Desktop\Учеба\Лабораторные работы по ООП Махмудов Орхан (М8О-205Б-18)\lab6\obj\Debug\lab6.exe
+C:\Users\Admin\Desktop\Учеба\Лабораторные работы по ООП Махмудов Орхан (М8О-205Б-18)\lab6\obj\Debug\lab6.pdb

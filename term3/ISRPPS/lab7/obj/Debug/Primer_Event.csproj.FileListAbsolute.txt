@@ -1,0 +1,49 @@
+C:\Users\HP\Desktop\Primer_Event\obj\Debug\Primer_Event.exe
+C:\Users\HP\Desktop\Primer_Event\obj\Debug\Primer_Event.pdb
+C:\Users\HP\Desktop\Primer_Event\obj\Debug\Primer_Event.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Primer_Event\bin\Debug\Primer_Event.exe
+C:\Users\HP\Desktop\Primer_Event\bin\Debug\Primer_Event.pdb
+C:\Users\HP\Desktop\ИСРППС_2015\Primer_Event_last\obj\Debug\Primer_Event.exe
+C:\Users\HP\Desktop\ИСРППС_2015\Primer_Event_last\obj\Debug\Primer_Event.pdb
+C:\Users\HP\Desktop\ИСРППС_2015\Primer_Event_last\bin\Debug\Primer_Event.exe
+C:\Users\HP\Desktop\ИСРППС_2015\Primer_Event_last\bin\Debug\Primer_Event.pdb
+C:\Users\HP\Desktop\ИСРППС_2015\Primer_Event_last\obj\Debug\Primer_Event.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\ИСРППС_Занятие_9_8.04.16\Новая папка\Primer_Event_last\obj\Debug\Primer_Event.exe
+C:\Users\HP\Desktop\ИСРППС_Занятие_9_8.04.16\Новая папка\Primer_Event_last\obj\Debug\Primer_Event.pdb
+C:\Users\HP\Desktop\ИСРППС_Занятие_9_8.04.16\Primer_Event_last\obj\Debug\Primer_Event.exe
+C:\Users\HP\Desktop\ИСРППС_Занятие_9_8.04.16\Primer_Event_last\obj\Debug\Primer_Event.pdb
+C:\Users\HP\Desktop\Весна_2016\ИСРППС_Занятие_9_8.04.16\Primer_Event_last\obj\Debug\Primer_Event.exe
+C:\Users\HP\Desktop\Весна_2016\ИСРППС_Занятие_9_8.04.16\Primer_Event_last\obj\Debug\Primer_Event.pdb
+C:\Users\HP\Desktop\ИСРППС_Занятие_9_8.04.16\Primer_Event_last\bin\Debug\Primer_Event.exe
+C:\Users\HP\Desktop\ИСРППС_Занятие_9_8.04.16\Primer_Event_last\bin\Debug\Primer_Event.pdb
+C:\Users\HP\Desktop\ИСРППС_Занятие_9_8.04.16\Primer_Event_last\obj\Debug\Primer_Event.csprojResolveAssemblyReference.cache
+F:\ИСРППС_Занятие_9_1.04.16\Primer_Event_last\obj\Debug\Primer_Event.exe
+F:\ИСРППС_Занятие_9_1.04.16\Primer_Event_last\obj\Debug\Primer_Event.pdb
+F:\ИСРППС_Занятие_9_1.04.17\Primer_Event_last\obj\Debug\Primer_Event.exe
+F:\ИСРППС_Занятие_9_1.04.17\Primer_Event_last\obj\Debug\Primer_Event.pdb
+C:\Users\HP\Desktop\Весна_2018\FL_весна_2017_last\ИСРППС_Занятие_9_1.04.17\Primer_Event_last\obj\Debug\Primer_Event.exe
+C:\Users\HP\Desktop\Весна_2018\FL_весна_2017_last\ИСРППС_Занятие_9_1.04.17\Primer_Event_last\obj\Debug\Primer_Event.pdb
+C:\Users\HP\Desktop\Весна_2018\FL_весна_2017_last\ИСРППС_Занятие_9_1.04.17\Primer_Event_last\bin\Debug\Primer_Event.exe
+C:\Users\HP\Desktop\Весна_2018\FL_весна_2017_last\ИСРППС_Занятие_9_1.04.17\Primer_Event_last\bin\Debug\Primer_Event.pdb
+C:\Users\HP\Desktop\Весна_2018\FL_весна_2017_last\ИСРППС_Занятие_9_1.04.17\Primer_Event_last\obj\Debug\Primer_Event.csprojResolveAssemblyReference.cache
+F:\ИСРППС_Занятие_10_7.04.18\Primer_Event_last\obj\Debug\Primer_Event.exe
+F:\ИСРППС_Занятие_10_7.04.18\Primer_Event_last\obj\Debug\Primer_Event.pdb
+F:\ИСРППС_Занятие_10_7.04.18\Primer_Event_last\bin\Debug\Primer_Event.exe
+F:\ИСРППС_Занятие_10_7.04.18\Primer_Event_last\bin\Debug\Primer_Event.pdb
+F:\ИСРППС_Занятие_10_7.04.18\Primer_Event_last\obj\Debug\Primer_Event.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Осень_2018\ИСРППС\ИСРППС_Занятие_9(ЛР7)_22-24.11.18\Primer_Event_last\obj\Debug\Primer_Event.exe
+C:\Users\HP\Desktop\Осень_2018\ИСРППС\ИСРППС_Занятие_9(ЛР7)_22-24.11.18\Primer_Event_last\obj\Debug\Primer_Event.pdb
+C:\Users\HP\Desktop\Осень_2018\ИСРППС\ИСРППС_Занятие_9(ЛР7)_22-24.11.18\Primer_Event_last\bin\Debug\Primer_Event.exe
+C:\Users\HP\Desktop\Осень_2018\ИСРППС\ИСРППС_Занятие_9(ЛР7)_22-24.11.18\Primer_Event_last\bin\Debug\Primer_Event.pdb
+C:\Users\HP\Desktop\Осень_2018\ИСРППС\ИСРППС_Занятие_9(ЛР7)_22-24.11.18\Primer_Event_last\obj\Debug\Primer_Event.csprojResolveAssemblyReference.cache
+F:\ИСРППС_2019\ИСРППС_Занятие_7(ЛР7)_14-16.11.19\Primer_Event_last\obj\Debug\Primer_Event.exe
+F:\ИСРППС_2019\ИСРППС_Занятие_7(ЛР7)_14-16.11.19\Primer_Event_last\obj\Debug\Primer_Event.pdb
+F:\ИСРППС_2019\ИСРППС_Занятие_7(ЛР7)_14-16.11.19\Primer_Event_last\bin\Debug\Primer_Event.exe
+F:\ИСРППС_2019\ИСРППС_Занятие_7(ЛР7)_14-16.11.19\Primer_Event_last\bin\Debug\Primer_Event.pdb
+F:\ИСРППС_2019\ИСРППС_Занятие_7(ЛР7)_14-16.11.19\Primer_Event_last\obj\Debug\Primer_Event.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Учеба\2018 C# Baki\2019 ИСРППС\ИСРППС_Занятие_7(ЛР7)_14-16.11.19\Primer_Event_last\bin\Debug\Primer_Event.exe
+C:\Users\Admin\Desktop\Учеба\2018 C# Baki\2019 ИСРППС\ИСРППС_Занятие_7(ЛР7)_14-16.11.19\Primer_Event_last\bin\Debug\Primer_Event.pdb
+C:\Users\Admin\Desktop\Учеба\2018 C# Baki\2019 ИСРППС\ИСРППС_Занятие_7(ЛР7)_14-16.11.19\Primer_Event_last\obj\Debug\Primer_Event.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Учеба\2018 C# Baki\2019 ИСРППС\ИСРППС_Занятие_7(ЛР7)_14-16.11.19\Primer_Event_last\obj\Debug\Primer_Event.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Учеба\2018 C# Baki\2019 ИСРППС\ИСРППС_Занятие_7(ЛР7)_14-16.11.19\Primer_Event_last\obj\Debug\Primer_Event.exe
+C:\Users\Admin\Desktop\Учеба\2018 C# Baki\2019 ИСРППС\ИСРППС_Занятие_7(ЛР7)_14-16.11.19\Primer_Event_last\obj\Debug\Primer_Event.pdb

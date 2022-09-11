@@ -1,0 +1,82 @@
+C:\Users\Андрей\YandexDisk\C#\CG_Lab_4-5\CG_Lab_4-5\bin\x86\Debug\CG_Lab_4-5.exe.config
+C:\Users\Андрей\YandexDisk\C#\CG_Lab_4-5\CG_Lab_4-5\bin\x86\Debug\CG_Lab_4-5.exe
+C:\Users\Андрей\YandexDisk\C#\CG_Lab_4-5\CG_Lab_4-5\bin\x86\Debug\CG_Lab_4-5.pdb
+C:\Users\Андрей\YandexDisk\C#\CG_Lab_4-5\CG_Lab_4-5\bin\x86\Debug\OpenGL.dll
+C:\Users\Андрей\YandexDisk\C#\CG_Lab_4-5\CG_Lab_4-5\bin\x86\Debug\Tao.FreeGlut.dll
+C:\Users\Андрей\YandexDisk\C#\CG_Lab_4-5\CG_Lab_4-5\bin\x86\Debug\OpenGL.dll.config
+C:\Users\Андрей\YandexDisk\C#\CG_Lab_4-5\CG_Lab_4-5\bin\x86\Debug\Tao.FreeGlut.dll.config
+C:\Users\Андрей\YandexDisk\C#\CG_Lab_4-5\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.exe
+C:\Users\Андрей\YandexDisk\C#\CG_Lab_4-5\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.pdb
+C:\Users\Андрей\YandexDisk\C#\CG_Lab_4-5\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.csprojResolveAssemblyReference.cache
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\КГ\CG_Lab_4-5\CG_Lab_4-5\bin\x86\Debug\CG_Lab_4-5.exe.config
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\КГ\CG_Lab_4-5\CG_Lab_4-5\bin\x86\Debug\CG_Lab_4-5.exe
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\КГ\CG_Lab_4-5\CG_Lab_4-5\bin\x86\Debug\CG_Lab_4-5.pdb
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\КГ\CG_Lab_4-5\CG_Lab_4-5\bin\x86\Debug\OpenGL.dll
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\КГ\CG_Lab_4-5\CG_Lab_4-5\bin\x86\Debug\Tao.FreeGlut.dll
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\КГ\CG_Lab_4-5\CG_Lab_4-5\bin\x86\Debug\OpenGL.dll.config
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\КГ\CG_Lab_4-5\CG_Lab_4-5\bin\x86\Debug\Tao.FreeGlut.dll.config
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\КГ\CG_Lab_4-5\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.csprojAssemblyReference.cache
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\КГ\CG_Lab_4-5\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.csproj.CoreCompileInputs.cache
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\КГ\CG_Lab_4-5\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.csproj.CopyComplete
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\КГ\CG_Lab_4-5\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.exe
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\КГ\CG_Lab_4-5\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.pdb
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\Ann - КГ\CG_Lab_4-5\CG_Lab_4-5\bin\x86\Debug\CG_Lab_4-5.exe.config
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\Ann - КГ\CG_Lab_4-5\CG_Lab_4-5\bin\x86\Debug\CG_Lab_4-5.exe
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\Ann - КГ\CG_Lab_4-5\CG_Lab_4-5\bin\x86\Debug\CG_Lab_4-5.pdb
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\Ann - КГ\CG_Lab_4-5\CG_Lab_4-5\bin\x86\Debug\OpenGL.dll
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\Ann - КГ\CG_Lab_4-5\CG_Lab_4-5\bin\x86\Debug\Tao.FreeGlut.dll
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\Ann - КГ\CG_Lab_4-5\CG_Lab_4-5\bin\x86\Debug\OpenGL.dll.config
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\Ann - КГ\CG_Lab_4-5\CG_Lab_4-5\bin\x86\Debug\Tao.FreeGlut.dll.config
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\Ann - КГ\CG_Lab_4-5\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.csprojAssemblyReference.cache
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\Ann - КГ\CG_Lab_4-5\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.csproj.CoreCompileInputs.cache
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\Ann - КГ\CG_Lab_4-5\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.csproj.CopyComplete
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\Ann - КГ\CG_Lab_4-5\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.exe
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\Ann - КГ\CG_Lab_4-5\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.pdb
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\Ann - КГ\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\CG_Lab_4-5.exe.config
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\Ann - КГ\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\CG_Lab_4-5.exe
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\Ann - КГ\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\CG_Lab_4-5.pdb
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\Ann - КГ\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\OpenGL.dll
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\Ann - КГ\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\Tao.FreeGlut.dll
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\Ann - КГ\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\OpenGL.dll.config
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\Ann - КГ\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\Tao.FreeGlut.dll.config
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\Ann - КГ\CG_Lab_4-5 Or\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.csprojAssemblyReference.cache
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\Ann - КГ\CG_Lab_4-5 Or\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.csproj.CoreCompileInputs.cache
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\Ann - КГ\CG_Lab_4-5 Or\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.csproj.CopyComplete
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\Ann - КГ\CG_Lab_4-5 Or\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.exe
+K:\МАИ\3 курс 5 сем\3 - Компьютерная графика\Ann - КГ\CG_Lab_4-5 Or\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.pdb
+C:\Users\Admin\Desktop\Учёба\КГ\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\CG_Lab_4-5.exe.config
+C:\Users\Admin\Desktop\Учёба\КГ\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\CG_Lab_4-5.exe
+C:\Users\Admin\Desktop\Учёба\КГ\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\CG_Lab_4-5.pdb
+C:\Users\Admin\Desktop\Учёба\КГ\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\OpenGL.dll
+C:\Users\Admin\Desktop\Учёба\КГ\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\Tao.FreeGlut.dll
+C:\Users\Admin\Desktop\Учёба\КГ\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\OpenGL.dll.config
+C:\Users\Admin\Desktop\Учёба\КГ\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\Tao.FreeGlut.dll.config
+C:\Users\Admin\Desktop\Учёба\КГ\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Учёба\КГ\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Учёба\КГ\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.csproj.CopyComplete
+C:\Users\Admin\Desktop\Учёба\КГ\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.exe
+C:\Users\Admin\Desktop\Учёба\КГ\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.pdb
+C:\Users\Admin\Desktop\Study\КГ\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\CG_Lab_4-5.exe.config
+C:\Users\Admin\Desktop\Study\КГ\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\CG_Lab_4-5.exe
+C:\Users\Admin\Desktop\Study\КГ\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\CG_Lab_4-5.pdb
+C:\Users\Admin\Desktop\Study\КГ\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\OpenGL.dll
+C:\Users\Admin\Desktop\Study\КГ\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\Tao.FreeGlut.dll
+C:\Users\Admin\Desktop\Study\КГ\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\OpenGL.dll.config
+C:\Users\Admin\Desktop\Study\КГ\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\Tao.FreeGlut.dll.config
+C:\Users\Admin\Desktop\Study\КГ\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Study\КГ\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Study\КГ\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.csproj.CopyComplete
+C:\Users\Admin\Desktop\Study\КГ\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.exe
+C:\Users\Admin\Desktop\Study\КГ\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.pdb
+C:\Users\Admin\Desktop\Study\CG\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\CG_Lab_4-5.exe.config
+C:\Users\Admin\Desktop\Study\CG\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\CG_Lab_4-5.exe
+C:\Users\Admin\Desktop\Study\CG\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\CG_Lab_4-5.pdb
+C:\Users\Admin\Desktop\Study\CG\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\OpenGL.dll
+C:\Users\Admin\Desktop\Study\CG\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\Tao.FreeGlut.dll
+C:\Users\Admin\Desktop\Study\CG\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\OpenGL.dll.config
+C:\Users\Admin\Desktop\Study\CG\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\bin\x86\Debug\Tao.FreeGlut.dll.config
+C:\Users\Admin\Desktop\Study\CG\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Study\CG\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Study\CG\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.csproj.CopyComplete
+C:\Users\Admin\Desktop\Study\CG\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.exe
+C:\Users\Admin\Desktop\Study\CG\lab4-5\CG_Lab_4-5 Or\CG_Lab_4-5\obj\x86\Debug\CG_Lab_4-5.pdb

@@ -1,0 +1,102 @@
+C:\Documents and Settings\ADMIN\Рабочий стол\СППО_Занятие_16\Немодальные окна\Немодальные окна\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ADMIN\Рабочий стол\СППО_Занятие_16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.Form1.resources
+C:\Documents and Settings\ADMIN\Рабочий стол\СППО_Занятие_16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.Properties.Resources.resources
+C:\Documents and Settings\ADMIN\Рабочий стол\СППО_Занятие_16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.PropertyForm.resources
+C:\Documents and Settings\ADMIN\Рабочий стол\СППО_Занятие_16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.csproj.GenerateResource.Cache
+C:\Documents and Settings\ADMIN\Рабочий стол\СППО_Занятие_16\Немодальные окна\Немодальные окна\bin\Debug\Немодальные окна.exe
+C:\Documents and Settings\ADMIN\Рабочий стол\СППО_Занятие_16\Немодальные окна\Немодальные окна\bin\Debug\Немодальные окна.pdb
+C:\Documents and Settings\ADMIN\Рабочий стол\СППО_Занятие_16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.exe
+C:\Documents and Settings\ADMIN\Рабочий стол\СППО_Занятие_16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.pdb
+C:\Documents and Settings\ADMIN\Рабочий стол\Визуальное программирование_2013\СППО_весна_2013\СППО_Занятие_16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.exe
+C:\Documents and Settings\ADMIN\Рабочий стол\Визуальное программирование_2013\СППО_весна_2013\СППО_Занятие_16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.pdb
+C:\Documents and Settings\ADMIN\Рабочий стол\Визуальное программирование_2013\СППО_весна_2013\СППО_Занятие_16\Немодальные окна\Немодальные окна\bin\Debug\Немодальные окна.exe
+C:\Documents and Settings\ADMIN\Рабочий стол\Визуальное программирование_2013\СППО_весна_2013\СППО_Занятие_16\Немодальные окна\Немодальные окна\bin\Debug\Немодальные окна.pdb
+C:\Documents and Settings\ADMIN\Рабочий стол\Визуальное программирование_2013\СППО_весна_2013\СППО_Занятие_16\Немодальные окна\Немодальные окна\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ADMIN\Рабочий стол\Визуальное программирование_2013\СППО_весна_2013\СППО_Занятие_16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.Form1.resources
+C:\Documents and Settings\ADMIN\Рабочий стол\Визуальное программирование_2013\СППО_весна_2013\СППО_Занятие_16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.Properties.Resources.resources
+C:\Documents and Settings\ADMIN\Рабочий стол\Визуальное программирование_2013\СППО_весна_2013\СППО_Занятие_16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.PropertyForm.resources
+C:\Documents and Settings\ADMIN\Рабочий стол\Визуальное программирование_2013\СППО_весна_2013\СППО_Занятие_16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.csproj.GenerateResource.Cache
+C:\Users\stud\Desktop\ИСРППС_Занятие_16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.exe
+C:\Users\stud\Desktop\ИСРППС_Занятие_16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.pdb
+C:\Users\stud\Desktop\ИСРППС_Занятие_16\Немодальные окна\Немодальные окна\bin\Debug\Немодальные окна.exe
+C:\Users\stud\Desktop\ИСРППС_Занятие_16\Немодальные окна\Немодальные окна\bin\Debug\Немодальные окна.pdb
+C:\Users\stud\Desktop\ИСРППС_Занятие_16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.Form1.resources
+C:\Users\stud\Desktop\ИСРППС_Занятие_16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.Properties.Resources.resources
+C:\Users\stud\Desktop\ИСРППС_Занятие_16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.PropertyForm.resources
+C:\Users\stud\Desktop\ИСРППС_Занятие_16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\ИСРППС_МАИ\ИСРППС_Занятие_16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.exe
+C:\Users\HP\Desktop\ИСРППС_МАИ\ИСРППС_Занятие_16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.pdb
+C:\Users\HP\Desktop\ИСРППС_МАИ\ИСРППС_Занятие_16\Немодальные окна\Немодальные окна\bin\Debug\Немодальные окна.exe
+C:\Users\HP\Desktop\ИСРППС_МАИ\ИСРППС_Занятие_16\Немодальные окна\Немодальные окна\bin\Debug\Немодальные окна.pdb
+C:\Users\HP\Desktop\ИСРППС_МАИ\ИСРППС_Занятие_16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\ИСРППС_МАИ\ИСРППС_Занятие_16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.Form1.resources
+C:\Users\HP\Desktop\ИСРППС_МАИ\ИСРППС_Занятие_16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.Properties.Resources.resources
+C:\Users\HP\Desktop\ИСРППС_МАИ\ИСРППС_Занятие_16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.PropertyForm.resources
+C:\Users\HP\Desktop\ИСРППС_МАИ\ИСРППС_Занятие_16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Весна_2016\ИСРППС_Занятие_11_23.04.16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.exe
+C:\Users\HP\Desktop\Весна_2016\ИСРППС_Занятие_11_23.04.16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.pdb
+C:\Users\HP\Desktop\Весна_2016\ИСРППС_Занятие_11_23.04.16\Немодальные окна\Немодальные окна\bin\Debug\Немодальные окна.exe
+C:\Users\HP\Desktop\Весна_2016\ИСРППС_Занятие_11_23.04.16\Немодальные окна\Немодальные окна\bin\Debug\Немодальные окна.pdb
+C:\Users\HP\Desktop\Весна_2016\ИСРППС_Занятие_11_23.04.16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Весна_2016\ИСРППС_Занятие_11_23.04.16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.Form1.resources
+C:\Users\HP\Desktop\Весна_2016\ИСРППС_Занятие_11_23.04.16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.Properties.Resources.resources
+C:\Users\HP\Desktop\Весна_2016\ИСРППС_Занятие_11_23.04.16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.PropertyForm.resources
+C:\Users\HP\Desktop\Весна_2016\ИСРППС_Занятие_11_23.04.16\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Осень_2018\ИСРППС\ИСРППС_Занятия_12,13,14,15,16_06-22.12.18\ИСРППС_Занятие_13(ЛР10)_08.12.18\ИСРППС_Занятие_13(ЛР10)_08.12.18\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.exe
+C:\Users\HP\Desktop\Осень_2018\ИСРППС\ИСРППС_Занятия_12,13,14,15,16_06-22.12.18\ИСРППС_Занятие_13(ЛР10)_08.12.18\ИСРППС_Занятие_13(ЛР10)_08.12.18\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.pdb
+F:\ИСРППС_2019\ИСРППС_Занятие_8(ЛР10_3)_16.11.19\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.exe
+F:\ИСРППС_2019\ИСРППС_Занятие_8(ЛР10_3)_16.11.19\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.pdb
+F:\ИСРППС_2019\ИСРППС_Занятие_8(ЛР10_3)_16.11.19\Немодальные окна\Немодальные окна\bin\Debug\Немодальные окна.exe
+F:\ИСРППС_2019\ИСРППС_Занятие_8(ЛР10_3)_16.11.19\Немодальные окна\Немодальные окна\bin\Debug\Немодальные окна.pdb
+F:\ИСРППС_2019\ИСРППС_Занятие_8(ЛР10_3)_16.11.19\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.csprojResolveAssemblyReference.cache
+F:\ИСРППС_2019\ИСРППС_Занятие_8(ЛР10_3)_16.11.19\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.Form1.resources
+F:\ИСРППС_2019\ИСРППС_Занятие_8(ЛР10_3)_16.11.19\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.Properties.Resources.resources
+F:\ИСРППС_2019\ИСРППС_Занятие_8(ЛР10_3)_16.11.19\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.PropertyForm.resources
+F:\ИСРППС_2019\ИСРППС_Занятие_8(ЛР10_3)_16.11.19\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.csproj.GenerateResource.Cache
+C:\Users\1\Dropbox\year_two\isrpps\examples\ISRPPS_Zanyatie_8_LR10_3_16_11_19\ИСРППС_Занятие_8(ЛР10_3)_16.11.19\Немодальные окна\Немодальные окна\bin\Debug\Немодальные окна.exe
+C:\Users\1\Dropbox\year_two\isrpps\examples\ISRPPS_Zanyatie_8_LR10_3_16_11_19\ИСРППС_Занятие_8(ЛР10_3)_16.11.19\Немодальные окна\Немодальные окна\bin\Debug\Немодальные окна.pdb
+C:\Users\1\Dropbox\year_two\isrpps\examples\ISRPPS_Zanyatie_8_LR10_3_16_11_19\ИСРППС_Занятие_8(ЛР10_3)_16.11.19\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.csprojAssemblyReference.cache
+C:\Users\1\Dropbox\year_two\isrpps\examples\ISRPPS_Zanyatie_8_LR10_3_16_11_19\ИСРППС_Занятие_8(ЛР10_3)_16.11.19\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.Form1.resources
+C:\Users\1\Dropbox\year_two\isrpps\examples\ISRPPS_Zanyatie_8_LR10_3_16_11_19\ИСРППС_Занятие_8(ЛР10_3)_16.11.19\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.Properties.Resources.resources
+C:\Users\1\Dropbox\year_two\isrpps\examples\ISRPPS_Zanyatie_8_LR10_3_16_11_19\ИСРППС_Занятие_8(ЛР10_3)_16.11.19\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.PropertyForm.resources
+C:\Users\1\Dropbox\year_two\isrpps\examples\ISRPPS_Zanyatie_8_LR10_3_16_11_19\ИСРППС_Занятие_8(ЛР10_3)_16.11.19\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.csproj.GenerateResource.cache
+C:\Users\1\Dropbox\year_two\isrpps\examples\ISRPPS_Zanyatie_8_LR10_3_16_11_19\ИСРППС_Занятие_8(ЛР10_3)_16.11.19\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.exe
+C:\Users\1\Dropbox\year_two\isrpps\examples\ISRPPS_Zanyatie_8_LR10_3_16_11_19\ИСРППС_Занятие_8(ЛР10_3)_16.11.19\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.pdb
+C:\Users\1\Dropbox\year_two\isrpps\#8\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.csprojAssemblyReference.cache
+C:\Users\1\Dropbox\year_two\isrpps\#8\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.Form1.resources
+C:\Users\1\Dropbox\year_two\isrpps\#8\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.Properties.Resources.resources
+C:\Users\1\Dropbox\year_two\isrpps\#8\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.PropertyForm.resources
+C:\Users\1\Dropbox\year_two\isrpps\#8\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.csproj.GenerateResource.cache
+C:\Users\1\Dropbox\year_two\isrpps\#8\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.exe
+C:\Users\1\Dropbox\year_two\isrpps\#8\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.pdb
+C:\Users\1\Dropbox\year_two\isrpps\#8\Немодальные окна\Немодальные окна\bin\Debug\Немодальные окна.exe
+C:\Users\1\Dropbox\year_two\isrpps\#8\Немодальные окна\Немодальные окна\bin\Debug\Немодальные окна.pdb
+E:\ООП\Примеры\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.exe
+E:\ООП\Примеры\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.pdb
+E:\ООП\Примеры\Немодальные окна\Немодальные окна\bin\Debug\Немодальные окна.exe
+E:\ООП\Примеры\Немодальные окна\Немодальные окна\bin\Debug\Немодальные окна.pdb
+E:\ООП\Примеры\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.csprojResolveAssemblyReference.cache
+E:\ООП\Примеры\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.Form1.resources
+E:\ООП\Примеры\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.Properties.Resources.resources
+E:\ООП\Примеры\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.PropertyForm.resources
+E:\ООП\Примеры\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.csproj.GenerateResource.Cache
+C:\Users\Комп\Desktop\Немодальные окна\Немодальные окна\bin\Debug\Немодальные окна.exe
+C:\Users\Комп\Desktop\Немодальные окна\Немодальные окна\bin\Debug\Немодальные окна.pdb
+C:\Users\Комп\Desktop\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.csprojAssemblyReference.cache
+C:\Users\Комп\Desktop\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.Form1.resources
+C:\Users\Комп\Desktop\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.Properties.Resources.resources
+C:\Users\Комп\Desktop\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.PropertyForm.resources
+C:\Users\Комп\Desktop\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.csproj.GenerateResource.cache
+C:\Users\Комп\Desktop\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.csproj.CoreCompileInputs.cache
+C:\Users\Комп\Desktop\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.exe
+C:\Users\Комп\Desktop\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.pdb
+C:\Users\Admin\Desktop\Немодальные окна\Немодальные окна\bin\Debug\Немодальные окна.exe
+C:\Users\Admin\Desktop\Немодальные окна\Немодальные окна\bin\Debug\Немодальные окна.pdb
+C:\Users\Admin\Desktop\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.Form1.resources
+C:\Users\Admin\Desktop\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.Properties.Resources.resources
+C:\Users\Admin\Desktop\Немодальные окна\Немодальные окна\obj\Debug\Немодальные_окна.PropertyForm.resources
+C:\Users\Admin\Desktop\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.exe
+C:\Users\Admin\Desktop\Немодальные окна\Немодальные окна\obj\Debug\Немодальные окна.pdb

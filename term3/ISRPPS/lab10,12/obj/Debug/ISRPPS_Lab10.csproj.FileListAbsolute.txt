@@ -1,0 +1,22 @@
+D:\Лабы 2 курс\ISRPPS_Lab10\bin\Debug\ISRPPS_Lab10.exe.config
+D:\Лабы 2 курс\ISRPPS_Lab10\bin\Debug\ISRPPS_Lab10.exe
+D:\Лабы 2 курс\ISRPPS_Lab10\bin\Debug\ISRPPS_Lab10.pdb
+D:\Лабы 2 курс\ISRPPS_Lab10\obj\Debug\ISRPPS_Lab10.csprojAssemblyReference.cache
+D:\Лабы 2 курс\ISRPPS_Lab10\obj\Debug\ISRPPS_Lab10.Form1.resources
+D:\Лабы 2 курс\ISRPPS_Lab10\obj\Debug\ISRPPS_Lab10.Properties.Resources.resources
+D:\Лабы 2 курс\ISRPPS_Lab10\obj\Debug\ISRPPS_Lab10.csproj.GenerateResource.cache
+D:\Лабы 2 курс\ISRPPS_Lab10\obj\Debug\ISRPPS_Lab10.csproj.CoreCompileInputs.cache
+D:\Лабы 2 курс\ISRPPS_Lab10\obj\Debug\ISRPPS_Lab10.exe
+D:\Лабы 2 курс\ISRPPS_Lab10\obj\Debug\ISRPPS_Lab10.pdb
+D:\Лабы 2 курс\ISRPPS_Lab10\obj\Debug\ISRPPS_Lab10.Form2.resources
+C:\Users\Admin\Desktop\ISRPPS_Lab10\bin\Debug\ISRPPS_Lab10.exe.config
+C:\Users\Admin\Desktop\ISRPPS_Lab10\bin\Debug\ISRPPS_Lab10.exe
+C:\Users\Admin\Desktop\ISRPPS_Lab10\bin\Debug\ISRPPS_Lab10.pdb
+C:\Users\Admin\Desktop\ISRPPS_Lab10\obj\Debug\ISRPPS_Lab10.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ISRPPS_Lab10\obj\Debug\ISRPPS_Lab10.Form1.resources
+C:\Users\Admin\Desktop\ISRPPS_Lab10\obj\Debug\ISRPPS_Lab10.Form2.resources
+C:\Users\Admin\Desktop\ISRPPS_Lab10\obj\Debug\ISRPPS_Lab10.Properties.Resources.resources
+C:\Users\Admin\Desktop\ISRPPS_Lab10\obj\Debug\ISRPPS_Lab10.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ISRPPS_Lab10\obj\Debug\ISRPPS_Lab10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ISRPPS_Lab10\obj\Debug\ISRPPS_Lab10.exe
+C:\Users\Admin\Desktop\ISRPPS_Lab10\obj\Debug\ISRPPS_Lab10.pdb

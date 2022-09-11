@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\Учеба\ООП Махмудов Орхан (М8О-205Б-18)\Долги\lab5\obj\Debug\lab5.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Учеба\ООП Махмудов Орхан (М8О-205Б-18)\Долги\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache

@@ -1,0 +1,48 @@
+D:\Лабы 2 курс\ISRPPS_Lab_6\obj\Debug\ISRPPS_Lab_6.csprojAssemblyReference.cache
+D:\Лабы 2 курс\ISRPPS_Lab_6\obj\Debug\ISRPPS_Lab_6.Form1.resources
+D:\Лабы 2 курс\ISRPPS_Lab_6\obj\Debug\ISRPPS_Lab_6.LaunchView.resources
+D:\Лабы 2 курс\ISRPPS_Lab_6\obj\Debug\ISRPPS_Lab_6.Properties.Resources.resources
+D:\Лабы 2 курс\ISRPPS_Lab_6\obj\Debug\ISRPPS_Lab_6.csproj.GenerateResource.cache
+D:\Лабы 2 курс\ISRPPS_Lab_6\obj\Debug\ISRPPS_Lab_6.csproj.CoreCompileInputs.cache
+D:\Лабы 2 курс\ISRPPS_Lab_6\obj\Debug\ISRPPS_Lab_6.ControlForm.resources
+D:\Лабы 2 курс\ISRPPS_Lab_6\bin\Debug\ISRPPS_Lab_6.exe.config
+D:\Лабы 2 курс\ISRPPS_Lab_6\bin\Debug\ISRPPS_Lab_6.exe
+D:\Лабы 2 курс\ISRPPS_Lab_6\bin\Debug\ISRPPS_Lab_6.pdb
+D:\Лабы 2 курс\ISRPPS_Lab_6\obj\Debug\ISRPPS_Lab_6.exe
+D:\Лабы 2 курс\ISRPPS_Lab_6\obj\Debug\ISRPPS_Lab_6.pdb
+C:\Users\Admin\Desktop\ISRPPS_Lab_6\bin\Debug\ISRPPS_Lab_6.exe.config
+C:\Users\Admin\Desktop\ISRPPS_Lab_6\bin\Debug\ISRPPS_Lab_6.exe
+C:\Users\Admin\Desktop\ISRPPS_Lab_6\bin\Debug\ISRPPS_Lab_6.pdb
+C:\Users\Admin\Desktop\ISRPPS_Lab_6\obj\Debug\ISRPPS_Lab_6.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ISRPPS_Lab_6\obj\Debug\ISRPPS_Lab_6.ControlForm.resources
+C:\Users\Admin\Desktop\ISRPPS_Lab_6\obj\Debug\ISRPPS_Lab_6.Form1.resources
+C:\Users\Admin\Desktop\ISRPPS_Lab_6\obj\Debug\ISRPPS_Lab_6.LaunchView.resources
+C:\Users\Admin\Desktop\ISRPPS_Lab_6\obj\Debug\ISRPPS_Lab_6.Properties.Resources.resources
+C:\Users\Admin\Desktop\ISRPPS_Lab_6\obj\Debug\ISRPPS_Lab_6.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ISRPPS_Lab_6\obj\Debug\ISRPPS_Lab_6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ISRPPS_Lab_6\obj\Debug\ISRPPS_Lab_6.exe
+C:\Users\Admin\Desktop\ISRPPS_Lab_6\obj\Debug\ISRPPS_Lab_6.pdb
+C:\Users\Admin\Desktop\lab6\bin\Debug\ISRPPS_Lab_6.exe.config
+C:\Users\Admin\Desktop\lab6\bin\Debug\ISRPPS_Lab_6.exe
+C:\Users\Admin\Desktop\lab6\bin\Debug\ISRPPS_Lab_6.pdb
+C:\Users\Admin\Desktop\lab6\obj\Debug\ISRPPS_Lab_6.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\lab6\obj\Debug\ISRPPS_Lab_6.ControlForm.resources
+C:\Users\Admin\Desktop\lab6\obj\Debug\ISRPPS_Lab_6.Form1.resources
+C:\Users\Admin\Desktop\lab6\obj\Debug\ISRPPS_Lab_6.LaunchView.resources
+C:\Users\Admin\Desktop\lab6\obj\Debug\ISRPPS_Lab_6.Properties.Resources.resources
+C:\Users\Admin\Desktop\lab6\obj\Debug\ISRPPS_Lab_6.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\lab6\obj\Debug\ISRPPS_Lab_6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\lab6\obj\Debug\ISRPPS_Lab_6.exe
+C:\Users\Admin\Desktop\lab6\obj\Debug\ISRPPS_Lab_6.pdb
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab6\bin\Debug\ISRPPS_Lab_6.exe.config
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab6\bin\Debug\ISRPPS_Lab_6.exe
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab6\bin\Debug\ISRPPS_Lab_6.pdb
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab6\obj\Debug\ISRPPS_Lab_6.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab6\obj\Debug\ISRPPS_Lab_6.ControlForm.resources
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab6\obj\Debug\ISRPPS_Lab_6.Form1.resources
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab6\obj\Debug\ISRPPS_Lab_6.LaunchView.resources
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab6\obj\Debug\ISRPPS_Lab_6.Properties.Resources.resources
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab6\obj\Debug\ISRPPS_Lab_6.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab6\obj\Debug\ISRPPS_Lab_6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab6\obj\Debug\ISRPPS_Lab_6.exe
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab6\obj\Debug\ISRPPS_Lab_6.pdb

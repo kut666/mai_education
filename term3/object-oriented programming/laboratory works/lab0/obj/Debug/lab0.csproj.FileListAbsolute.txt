@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Все для вуза\ООП\lab0\bin\Debug\lab0.exe.config
+C:\Users\Admin\Desktop\Все для вуза\ООП\lab0\bin\Debug\lab0.exe
+C:\Users\Admin\Desktop\Все для вуза\ООП\lab0\bin\Debug\lab0.pdb
+C:\Users\Admin\Desktop\Все для вуза\ООП\lab0\obj\Debug\lab0.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Все для вуза\ООП\lab0\obj\Debug\lab0.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Все для вуза\ООП\lab0\obj\Debug\lab0.exe
+C:\Users\Admin\Desktop\Все для вуза\ООП\lab0\obj\Debug\lab0.pdb
+C:\Users\Admin\Desktop\Study\2 course\Part1\Lab and CP (OOP)\Lab\lab0\bin\Debug\lab0.exe.config
+C:\Users\Admin\Desktop\Study\2 course\Part1\Lab and CP (OOP)\Lab\lab0\bin\Debug\lab0.exe
+C:\Users\Admin\Desktop\Study\2 course\Part1\Lab and CP (OOP)\Lab\lab0\bin\Debug\lab0.pdb
+C:\Users\Admin\Desktop\Study\2 course\Part1\Lab and CP (OOP)\Lab\lab0\obj\Debug\lab0.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Study\2 course\Part1\Lab and CP (OOP)\Lab\lab0\obj\Debug\lab0.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Study\2 course\Part1\Lab and CP (OOP)\Lab\lab0\obj\Debug\lab0.exe
+C:\Users\Admin\Desktop\Study\2 course\Part1\Lab and CP (OOP)\Lab\lab0\obj\Debug\lab0.pdb

@@ -1,0 +1,36 @@
+C:\Users\Admin\Desktop\Учеба\ИСРППС Махмудов Орхан (М80-205Б-18)\lab1-2\bin\Debug\lab1-2.exe.config
+C:\Users\Admin\Desktop\Учеба\ИСРППС Махмудов Орхан (М80-205Б-18)\lab1-2\bin\Debug\lab1-2.exe
+C:\Users\Admin\Desktop\Учеба\ИСРППС Махмудов Орхан (М80-205Б-18)\lab1-2\bin\Debug\lab1-2.pdb
+C:\Users\Admin\Desktop\Учеба\ИСРППС Махмудов Орхан (М80-205Б-18)\lab1-2\obj\Debug\lab1-2.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Учеба\ИСРППС Махмудов Орхан (М80-205Б-18)\lab1-2\obj\Debug\lab1_2.Form1.resources
+C:\Users\Admin\Desktop\Учеба\ИСРППС Махмудов Орхан (М80-205Б-18)\lab1-2\obj\Debug\lab1_2.Properties.Resources.resources
+C:\Users\Admin\Desktop\Учеба\ИСРППС Махмудов Орхан (М80-205Б-18)\lab1-2\obj\Debug\lab1-2.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Учеба\ИСРППС Махмудов Орхан (М80-205Б-18)\lab1-2\obj\Debug\lab1-2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Учеба\ИСРППС Махмудов Орхан (М80-205Б-18)\lab1-2\obj\Debug\lab1-2.exe
+C:\Users\Admin\Desktop\Учеба\ИСРППС Махмудов Орхан (М80-205Б-18)\lab1-2\obj\Debug\lab1-2.pdb
+C:\Users\Admin\Desktop\Учеба\ИСРППС Махмудов Орхан (М80-205Б-18)\lab1-2\obj\Debug\lab1_2.Form2.resources
+C:\Users\Admin\Desktop\Учеба\ИСРППС Махмудов Орхан (М80-205Б-18)\lab1-2\obj\Debug\lab1_2.Form3.resources
+C:\Users\Admin\Desktop\Учеба\Лабы (ИСРППС)\lab1-2\bin\Debug\lab1-2.exe.config
+C:\Users\Admin\Desktop\Учеба\Лабы (ИСРППС)\lab1-2\bin\Debug\lab1-2.exe
+C:\Users\Admin\Desktop\Учеба\Лабы (ИСРППС)\lab1-2\bin\Debug\lab1-2.pdb
+C:\Users\Admin\Desktop\Учеба\Лабы (ИСРППС)\lab1-2\obj\Debug\lab1-2.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Учеба\Лабы (ИСРППС)\lab1-2\obj\Debug\lab1_2.Form1.resources
+C:\Users\Admin\Desktop\Учеба\Лабы (ИСРППС)\lab1-2\obj\Debug\lab1_2.Form2.resources
+C:\Users\Admin\Desktop\Учеба\Лабы (ИСРППС)\lab1-2\obj\Debug\lab1_2.Form3.resources
+C:\Users\Admin\Desktop\Учеба\Лабы (ИСРППС)\lab1-2\obj\Debug\lab1_2.Properties.Resources.resources
+C:\Users\Admin\Desktop\Учеба\Лабы (ИСРППС)\lab1-2\obj\Debug\lab1-2.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Учеба\Лабы (ИСРППС)\lab1-2\obj\Debug\lab1-2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Учеба\Лабы (ИСРППС)\lab1-2\obj\Debug\lab1-2.exe
+C:\Users\Admin\Desktop\Учеба\Лабы (ИСРППС)\lab1-2\obj\Debug\lab1-2.pdb
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab1-2\bin\Debug\lab1-2.exe.config
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab1-2\bin\Debug\lab1-2.exe
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab1-2\bin\Debug\lab1-2.pdb
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab1-2\obj\Debug\lab1-2.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab1-2\obj\Debug\lab1_2.Form1.resources
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab1-2\obj\Debug\lab1_2.Form2.resources
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab1-2\obj\Debug\lab1_2.Form3.resources
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab1-2\obj\Debug\lab1_2.Properties.Resources.resources
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab1-2\obj\Debug\lab1-2.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab1-2\obj\Debug\lab1-2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab1-2\obj\Debug\lab1-2.exe
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab1-2\obj\Debug\lab1-2.pdb

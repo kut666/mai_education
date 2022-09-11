@@ -1,0 +1,1 @@
+ALTER TABLE StudMag ADD CONSTRAINT CK_NumRecordBook CHECK (NumRecordBook > 0)

@@ -1,0 +1,20 @@
+C:\Users\Admin\Desktop\Курсовая работа по ООП\bin\Debug\Курсовая работа по ООП.exe.config
+C:\Users\Admin\Desktop\Курсовая работа по ООП\bin\Debug\Курсовая работа по ООП.exe
+C:\Users\Admin\Desktop\Курсовая работа по ООП\bin\Debug\Курсовая работа по ООП.pdb
+C:\Users\Admin\Desktop\Курсовая работа по ООП\obj\Debug\Курсовая работа по ООП.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Курсовая работа по ООП\obj\Debug\Курсовая_работа_по_ООП.Form1.resources
+C:\Users\Admin\Desktop\Курсовая работа по ООП\obj\Debug\Курсовая_работа_по_ООП.Properties.Resources.resources
+C:\Users\Admin\Desktop\Курсовая работа по ООП\obj\Debug\Курсовая работа по ООП.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Курсовая работа по ООП\obj\Debug\Курсовая работа по ООП.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Курсовая работа по ООП\obj\Debug\Курсовая работа по ООП.exe
+C:\Users\Admin\Desktop\Курсовая работа по ООП\obj\Debug\Курсовая работа по ООП.pdb
+C:\Users\Admin\Desktop\Учеба\Курсач ООП\Курсовая работа по ООП\bin\Debug\Курсовая работа по ООП.exe.config
+C:\Users\Admin\Desktop\Учеба\Курсач ООП\Курсовая работа по ООП\bin\Debug\Курсовая работа по ООП.exe
+C:\Users\Admin\Desktop\Учеба\Курсач ООП\Курсовая работа по ООП\bin\Debug\Курсовая работа по ООП.pdb
+C:\Users\Admin\Desktop\Учеба\Курсач ООП\Курсовая работа по ООП\obj\Debug\Курсовая работа по ООП.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Учеба\Курсач ООП\Курсовая работа по ООП\obj\Debug\Курсовая_работа_по_ООП.Form1.resources
+C:\Users\Admin\Desktop\Учеба\Курсач ООП\Курсовая работа по ООП\obj\Debug\Курсовая_работа_по_ООП.Properties.Resources.resources
+C:\Users\Admin\Desktop\Учеба\Курсач ООП\Курсовая работа по ООП\obj\Debug\Курсовая работа по ООП.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Учеба\Курсач ООП\Курсовая работа по ООП\obj\Debug\Курсовая работа по ООП.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Учеба\Курсач ООП\Курсовая работа по ООП\obj\Debug\Курсовая работа по ООП.exe
+C:\Users\Admin\Desktop\Учеба\Курсач ООП\Курсовая работа по ООП\obj\Debug\Курсовая работа по ООП.pdb

@@ -1,0 +1,40 @@
+D:\Лабы 2 курс\ISRPPS_Lab9\obj\Debug\ISRPPS_lab9.csprojAssemblyReference.cache
+D:\Лабы 2 курс\ISRPPS_Lab9\obj\Debug\ISRPPS_lab9.Form1.resources
+D:\Лабы 2 курс\ISRPPS_Lab9\obj\Debug\ISRPPS_lab9.Properties.Resources.resources
+D:\Лабы 2 курс\ISRPPS_Lab9\obj\Debug\ISRPPS_lab9.csproj.GenerateResource.cache
+D:\Лабы 2 курс\ISRPPS_Lab9\obj\Debug\ISRPPS_lab9.csproj.CoreCompileInputs.cache
+D:\Лабы 2 курс\ISRPPS_Lab9\bin\Debug\ISRPPS_lab9.exe.config
+D:\Лабы 2 курс\ISRPPS_Lab9\bin\Debug\ISRPPS_lab9.exe
+D:\Лабы 2 курс\ISRPPS_Lab9\bin\Debug\ISRPPS_lab9.pdb
+D:\Лабы 2 курс\ISRPPS_Lab9\obj\Debug\ISRPPS_lab9.exe
+D:\Лабы 2 курс\ISRPPS_Lab9\obj\Debug\ISRPPS_lab9.pdb
+C:\Users\Admin\Desktop\ISRPPS_lab9\bin\Debug\ISRPPS_lab9.exe.config
+C:\Users\Admin\Desktop\ISRPPS_lab9\bin\Debug\ISRPPS_lab9.exe
+C:\Users\Admin\Desktop\ISRPPS_lab9\bin\Debug\ISRPPS_lab9.pdb
+C:\Users\Admin\Desktop\ISRPPS_lab9\obj\Debug\ISRPPS_lab9.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ISRPPS_lab9\obj\Debug\ISRPPS_lab9.Form1.resources
+C:\Users\Admin\Desktop\ISRPPS_lab9\obj\Debug\ISRPPS_lab9.Properties.Resources.resources
+C:\Users\Admin\Desktop\ISRPPS_lab9\obj\Debug\ISRPPS_lab9.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ISRPPS_lab9\obj\Debug\ISRPPS_lab9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ISRPPS_lab9\obj\Debug\ISRPPS_lab9.exe
+C:\Users\Admin\Desktop\ISRPPS_lab9\obj\Debug\ISRPPS_lab9.pdb
+C:\Users\Admin\Desktop\Учеба\ИСРППС Махмудов Орхан (М80-205Б-18)\lab9\bin\Debug\ISRPPS_lab9.exe.config
+C:\Users\Admin\Desktop\Учеба\ИСРППС Махмудов Орхан (М80-205Б-18)\lab9\bin\Debug\ISRPPS_lab9.exe
+C:\Users\Admin\Desktop\Учеба\ИСРППС Махмудов Орхан (М80-205Б-18)\lab9\bin\Debug\ISRPPS_lab9.pdb
+C:\Users\Admin\Desktop\Учеба\ИСРППС Махмудов Орхан (М80-205Б-18)\lab9\obj\Debug\ISRPPS_lab9.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Учеба\ИСРППС Махмудов Орхан (М80-205Б-18)\lab9\obj\Debug\ISRPPS_lab9.Form1.resources
+C:\Users\Admin\Desktop\Учеба\ИСРППС Махмудов Орхан (М80-205Б-18)\lab9\obj\Debug\ISRPPS_lab9.Properties.Resources.resources
+C:\Users\Admin\Desktop\Учеба\ИСРППС Махмудов Орхан (М80-205Б-18)\lab9\obj\Debug\ISRPPS_lab9.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Учеба\ИСРППС Махмудов Орхан (М80-205Б-18)\lab9\obj\Debug\ISRPPS_lab9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Учеба\ИСРППС Махмудов Орхан (М80-205Б-18)\lab9\obj\Debug\ISRPPS_lab9.exe
+C:\Users\Admin\Desktop\Учеба\ИСРППС Махмудов Орхан (М80-205Б-18)\lab9\obj\Debug\ISRPPS_lab9.pdb
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab9\bin\Debug\ISRPPS_lab9.exe.config
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab9\bin\Debug\ISRPPS_lab9.exe
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab9\bin\Debug\ISRPPS_lab9.pdb
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab9\obj\Debug\ISRPPS_lab9.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab9\obj\Debug\ISRPPS_lab9.Form1.resources
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab9\obj\Debug\ISRPPS_lab9.Properties.Resources.resources
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab9\obj\Debug\ISRPPS_lab9.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab9\obj\Debug\ISRPPS_lab9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab9\obj\Debug\ISRPPS_lab9.exe
+C:\Users\Admin\Desktop\Учёба\2 курс\Лабы (ИСРППС)\lab9\obj\Debug\ISRPPS_lab9.pdb
