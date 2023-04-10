@@ -1,24 +1,24 @@
 <h2 align="center">Здесь находятся мои лабораторные, курсовые, РГР, файлы подготовки к экзаменам и отчёты по практикам за время обучения в МАИ на 805 кафедре
-<h5>1 семестр
+<h3>1 семестр<h3>
 <h4><a href="https://github.com/kut666/MAI_study/tree/main/term1/fundamental%20computer%20science">Фундаментальная информатика
-<h5>2 семестр
+<h3>2 семестр<h3>
 <h4><a href="https://github.com/kut666/MAI_study/tree/main/term2/fundamental%20computer%20science">Фундаментальная информатика
 <h4><a href="https://github.com/kut666/MAI_study/tree/main/term2/discrete%20mathematics">Дискретная математика
 <h4><a href="https://github.com/kut666/MAI_study/tree/main/term2/practice">Учебная практика
-<h5>3 семестр
+<h3>3 семестр<h3>
 <h4><a href="https://github.com/kut666/MAI_study/tree/main/term3/ISRPPS">Инструментальные средства разработки прикладных программных систем
 <h4><a href="https://github.com/kut666/MAI_study/tree/main/term3/differential%20equations">Дифференциальные уравнения
 <h4><a href="https://github.com/kut666/MAI_study/tree/main/term3/mathematical%20analysis">Математический анализ
 <h4><a href="https://github.com/kut666/MAI_study/tree/main/term3/object-oriented%20programming">Объектно-ориентированное программирование
 <h4><a href="https://github.com/kut666/MAI_study/tree/main/term3/physics">Физика
-<h5>4 семестр
+<h3>4 семестр<h3>
 <h4><a href="https://github.com/kut666/MAI_study/tree/main/term4/computer%20mathematics">Компьютерная математика
 <h4><a href="https://github.com/kut666/MAI_study/tree/main/term4/functional%20analysis">Элементы теории функций и функционального анализа
 <h4><a href="https://github.com/kut666/MAI_study/tree/main/term4/mathematical%20analysis">Математический анализ
 <h4><a href="https://github.com/kut666/MAI_study/tree/main/term4/physics">Физика
 <h4><a href="https://github.com/kut666/MAI_study/tree/main/term4/theoretical%20mechanics">Теоретическая механика
 <h4><a href="https://github.com/kut666/MAI_study/tree/main/term4/practice">Вычислительная практика
-<h5>5 семестр
+<h3>5 семестр<h3>
 <h4><a href="https://github.com/kut666/MAI_study/tree/main/term5/OOMDP">Объектно-ориентированное моделирование динамических процессов
 <h4><a href="https://github.com/kut666/MAI_study/tree/main/term5/computer%20graphics">Компьютерная графика
 <h4><a href="https://github.com/kut666/MAI_study/tree/main/term5/databases">Базы данных
