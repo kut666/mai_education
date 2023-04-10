@@ -1,6 +1,6 @@
 <h2 align="center">Здесь находятся мои лабораторные, курсовые, РГР, файлы подготовки к экзаменам и отчёты по практикам за время обучения в МАИ на 805 кафедре
 <h3>1 семестр<h3>
-<h4><a href="https://github.com/kut666/MAI_study/tree/main/term1/fundamental%20computer%20science"> Фундаментальная информатика<h4>
+<h4><a href="https://github.com/kut666/MAI_study/tree/main/term1/fundamental%20computer%20science">Фундаментальная информатика<h4>
 <h3>2 семестр<h3>
 <h4><a href="https://github.com/kut666/MAI_study/tree/main/term2/fundamental%20computer%20science">Фундаментальная информатика<h4>
 <h4><a href="https://github.com/kut666/MAI_study/tree/main/term2/discrete%20mathematics">Дискретная математика<h4>
